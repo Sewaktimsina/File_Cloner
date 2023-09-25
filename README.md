@@ -23,4 +23,4 @@ Before using this script, ensure you have the following prerequisites installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sewaktimsina/file-cloner-script.git
+   git clone https://github.com/sewaktimsina/File_Cloner.git
